@@ -9,3 +9,7 @@
 ```
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/code
 ```
+**Usage -**
+```
+git clone https://github.com/Raj140503/Credit-Card-Fraud-Detection
+```
